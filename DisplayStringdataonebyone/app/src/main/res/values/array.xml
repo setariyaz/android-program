@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="abc">
+        <item>riyaz</item>
+        <item>rohit</item>
+        <item>sahil</item>
+        <item>chetan</item>
+        <item>meet</item>
+        <item>sabir</item>
+        <item>zahir</item>
+        <item>yash</item>
+        <item>nirav</item>
+        <item>hement</item>
+
+    </string-array>
+</resources>
