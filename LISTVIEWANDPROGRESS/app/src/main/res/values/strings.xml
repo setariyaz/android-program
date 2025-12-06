@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LISTVIEWANDPROGRESS</string>
+    <string-array name="names2">
+        <item>MEET</item>
+        <item>ROHIT</item>
+        <item>SAHIL</item>
+        <item>SATYAN</item>
+        <item>ZAHIR</item>
+        <item>KUNAL</item>
+        <item>MOULIK</item>
+        <item>JIGAR</item>
+        <item>ALL</item>
+
+    </string-array>
+</resources>
